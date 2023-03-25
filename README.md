@@ -3,7 +3,6 @@
 This repository is for testing git submodule and subtree git features.
 
 Vehicle repo is parent repo of:
-* plane -  https://github.com/t4upl/plane 
-
-## submodule hitsory 
-15.01 14:32 - update plane
+* plane -  https://github.com/t4upl/plane submodule  
+* ship - https://github.com/t4upl/ship subtree 
+* animal - https://github.com/t4upl/animal splitting repo using subtree 
